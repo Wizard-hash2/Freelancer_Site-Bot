@@ -35,7 +35,7 @@ AFRIWORK bridges the gap between talented freelancers and clients seeking qualit
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/Wizard-hash2/AI_Background_Bot.git
+   git clone https://github.com/Wizard-hash2/Freelancer_Site-Bot.git
    cd afriwork
    ```
 2. **Install dependencies:**
